@@ -28,3 +28,9 @@ In this project, you can simulate the effectiveness of investment strategies tha
 ---
 
 **Note**: This simulation is based on historical data and is intended for predictive purposes only. Actual investment decisions should consider various factors beyond this simulation.
+
+## Gallery
+
+| 2011 ~ 2023 Backtesting | 2015 ~ 2020 Backtesting |
+| :---: | :---: |
+| <img src = "./investment_simulation_2011-01-01_to_2023-12-31.png" Width=90%> | <img src = "./investment_simulation_2015-01-01_to_2020-12-31.png" Width=90%>

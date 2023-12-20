@@ -28,3 +28,9 @@ VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해
 [VOO-TQQQ-Switching-Strategy-Simulator](https://voo-tqqq-switching-strategy-simulator-a7ufaz75r2tigq7m3zzrdq.streamlit.app/)
 
 2. `Start Date`와 `End Date`의 날짜를 변경해가며, 백테스팅 시뮬레이션 결과를 확인해보세요.
+
+## 갤러리
+
+| 2011 ~ 2023 백테스팅 결과 | 2015 ~ 2020 백테스팅 결과 |
+| :---: | :---: |
+| <img src = "./investment_simulation_2011-01-01_to_2023-12-31.png" Width=90%> | <img src = "./investment_simulation_2015-01-01_to_2020-12-31.png" Width=90%>
