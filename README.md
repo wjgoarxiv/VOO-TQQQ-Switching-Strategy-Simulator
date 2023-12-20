@@ -6,6 +6,8 @@
 
 > For who can speak english, please refer to [README-en.md](./README-en.md) for more information.
 
+- APP LINK: https://voo-tqqq-switching-strategy-simulator-a7ufaz75r2tigq7m3zzrdq.streamlit.app/
+
 ## 프로젝트 개요
 
 이 프로젝트에서는 `yahoo finance`의 데이터를 활용하여 `VOO`와 `TQQQ` 사이에서 전환하는 투자 전략의 효과를 시뮬레이션 해볼 수 있어요. 사용자는 원하는 기간을 설정하여 시뮬레이션을 실행할 수 있답니다.
