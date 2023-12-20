@@ -43,7 +43,7 @@ if st.button('Run Simulation'):
     # Display results
     st.write('### 3. 그래프')
     st.write('아래 그래프는 총 자산 가치와 월급만 합산했을 때를 비교하여 보여줘요.')
-    st.write('월급만 합산했을 경우는 파란색 선, 투자를 통한 총 자산 가치는 하늘색 선으로 표시돼요.')
+    st.write('월급만 합산했을 경우는 `Total_Value`, 투자를 통한 총 자산 가치는 `Cash_Accumulated`로 표시돼요.')
     st.line_chart(results_df[['Total_Value', 'Cash_Accumulated']])
 
     # Display the major 10 rows of df
