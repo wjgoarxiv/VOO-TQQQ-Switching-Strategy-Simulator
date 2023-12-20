@@ -22,7 +22,7 @@ VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해
 
 ## 설치 및 실행
 
-1. 다음 링크를 눌러, Streamlit 앱을 실행해보세요.
+1. 다음 링크를 눌러, Streamlit 앱을 실행해보세요. </br>
 [VOO-TQQQ-Switching-Strategy-Simulator](https://voo-tqqq-switching-strategy-simulator-a7ufaz75r2tigq7m3zzrdq.streamlit.app/)
 
 2. `Start Date`와 `End Date`의 날짜를 변경해가며, 백테스팅 시뮬레이션 결과를 확인해보세요.
