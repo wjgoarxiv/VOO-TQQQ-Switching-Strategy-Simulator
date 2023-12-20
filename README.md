@@ -9,6 +9,7 @@ VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해
 ## 프로젝트 개요
 
 이 프로젝트에서는 `yahoo finance`의 데이터를 활용하여 VOO와 TQQQ 사이에서 전환하는 투자 전략의 효과를 시뮬레이션 해볼 수 있어요. 사용자는 원하는 기간을 설정하여 시뮬레이션을 실행할 수 있답니다.
+</br></br>해당 프로젝트는 [닥터음양님의 블로그 칼럼](https://m.cafe.naver.com/ca-fe/web/cafes/likeusstock/articles/958099?useCafeId=false&tc)에서 영감을 받아 제작되었어요.
 
 ## 사용 방법
 
