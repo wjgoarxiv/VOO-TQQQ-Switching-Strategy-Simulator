@@ -1,4 +1,5 @@
 # VOO-TQQQ-Switching-Strategy-Simulator
+
 ::Interactive Streamlit app simulating investment strategies based on VOO and TQQQ switching, triggered by market indices IXIC and SPX::
 
 VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해보는 Streamlit 웹 애플리케이션이에요. `IXIC`와 `SPX` 시장 지표에 따라 투자 전략을 변경해보며, 실제 투자 결과를 예측해볼 수 있어요.
@@ -21,4 +22,7 @@ VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해
 
 ## 설치 및 실행
 
-1. ~~
+1. 다음 링크를 눌러, Streamlit 앱을 실행해보세요.
+[VOO-TQQQ-Switching-Strategy-Simulator](https://voo-tqqq-switching-strategy-simulator-a7ufaz75r2tigq7m3zzrdq.streamlit.app/)
+
+2. `Start Date`와 `End Date`의 날짜를 변경해가며, 백테스팅 시뮬레이션 결과를 확인해보세요.
