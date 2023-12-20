@@ -4,6 +4,8 @@
 
 VOO와 TQQQ를 기반으로 한 스마트한 투자 전략을 시뮬레이션해보는 Streamlit 웹 애플리케이션이에요. `IXIC`와 `SPX` 시장 지표에 따라 투자 전략을 변경해보며, 실제 투자 결과를 예측해볼 수 있어요.
 
+> For who can speak english, please refer to [README_EN.md](./README_EN.md) for more information.
+
 ## 프로젝트 개요
 
 이 프로젝트에서는 `yahoo finance`의 데이터를 활용하여 VOO와 TQQQ 사이에서 전환하는 투자 전략의 효과를 시뮬레이션 해볼 수 있어요. 사용자는 원하는 기간을 설정하여 시뮬레이션을 실행할 수 있답니다.
